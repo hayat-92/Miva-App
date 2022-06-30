@@ -1,0 +1,29 @@
+{
+    "name":"maize",
+    "subtitle":"Maize (Zea mays L.) is the world's leading crop and is widely cultivated as cereal grain that was domesticated in Central America.",
+    "description":"Maize also known as corn is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10000 years ago.Maize is known as queen of cereals because it has the highest genetic yield potential among the cereals.",
+    "Image_url":"https://agritech.tnau.ac.in/agriculture/CropProduction/Forage%20Crops/forage-images/fodder_maize2.jpg"
+}
+
+{
+    "name":"wheat",
+    "subtitle":"Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food. The many species of wheat together make up the genus Triticum; the most widely grown is common wheat (T. aestivum).",
+    "description":"Wheat is the second most important crop in India next to rice. This food grain of the country is actually the staple food of the people of north-western India. A huge portion of the total cropped area in the country is under the production of wheat crop. It is also said that as a food, wheat is more nutritive as compared to the other cereals. The gluten present in wheat determines its chapatimaking quality. Hard varieties of wheat are richer in gluten. In India, generally hard varieties of wheat are grown as most of the wheat grown in the country is consumed in the form of chappatis.",
+    "Image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agweek.com%2Fbusiness%2F4176634-what-wheat-crop&psig=AOvVaw2hs96cAa1e2hJx9ggCNBiJ&ust=1640511163211000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDpir3S_vQCFQAAAAAdAAAAABAO"
+}
+
+
+{
+    "name":"rice",
+    "subtitle":"Rice is unique because it can grow in wet environments that other crops cannot survive in. Such wet environments are abundant across Asia.",
+    "description":"Rice is one of the main cereals in India. In most parts of the country, this crop is sown in rainy season and hence is the main crop of kharif. Rice is grown in tropical parts of India. This crop needs temperature between 19 to 27° Celsius and rainfall between 75 to 200 cm. Alluvial soil of river valleys is ideal for growing rice. Three types of rice are grown according to weather in India and they are; Aman (Monsoon), Os (Winter) and Boro (Summer). Since 86% of rice production in India happens during Aman or monsoon, hence it is called a kharif crop. India’s 90% rice production comes from West Bengal (15.22%), Andhra Pradesh (14.3%), Uttar Pradesh (11.78%), Odisha (9.2%), Bihar (8.0%), Tamil Nadu (8.2%), Madhya Pradesh (8.1%), Assam, Chhattisgarh, Jharkhand, Maharashtra and Punjab. In Rajasthan rice is grown in Ganganagar, Hanumangarh, Kota and Bundi; in small quantity with the help of irrigation. India is the second largest producer of rice in the world; after China.Read more on Sarthaks.com",
+    "Image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thehansindia.com%2Feditors-desk%2Fdiversifying-from-rice-crop-cultivation-imperative-698791&psig=AOvVaw2GUZp5JXu5iuXEtnN_befK&ust=1640511313135000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKii3oTT_vQCFQAAAAAdAAAAABAD"
+}
+
+
+{
+    "name":"bajra",
+    "subtitle":"Bajra is popularly known as “pearl millet” and belongs to the family of Gramineae. This grain is basically originated from India or Africa.",
+    "description":"Bajra is popularly known as “pearl millet” and belongs to the family of Graminea. This grain is basically originated from India or Africa. Bajra is a coarse grain crops and considered to be the poor man’s staple nourishment and suitable to cultivate in dry lands. Major Bajra production states in India are: Rajasthan, Maharashtra, Haryana, Uttar Pradesh and Gujarat. Bajra can also used as valuable animal fodder. It is one of the major crops of China, India, South Eastern Asia, Sudan, Pakistan, Arabia, Russia & Nigeria.",
+    "Image_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fbajra-grain-20566286797.html&psig=AOvVaw27iLWkvWKjvn3LdICWMJsv&ust=1640511467552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCnzM7T_vQCFQAAAAAdAAAAABAD"
+}
